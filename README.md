@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caviere
+- 👋 Hi, I’m Weddy
 - 👀 I’m interested in system progamming
 - 🌱 I’m currently learning SQL and python
 - 📫 How to reach me weddygikunda@gmail.com
